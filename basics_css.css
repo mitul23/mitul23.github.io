@@ -1,0 +1,39 @@
+/* comments */
+h3 {
+  color: purple;
+}
+
+li {
+  color: yellow;
+}
+
+body {
+  /*background: url(https://miro.medium.com/max/2700/1*QS59aHuIEgJoIogixOJ32w.jpeg);
+*/
+  background: gray;
+  font-family: 'GrundschriftRegular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px
+}
+
+
+p {
+  color: yellow;
+}
+
+h1 {
+  color: brown;
+  text-align: center;
+}
+
+table{
+  color: orange;
+}
+
+
+
+/* for classes in div - do
+.classname {}*/
+
+/* for ids- do #idname{}*/
